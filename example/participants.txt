@@ -1,0 +1,14 @@
+1, Roz Smith, 1184 Central, Augusta, GA, 30908, no, 2, 3
+2, John Jones, 222 Hazel, Atlanta, GA, 22345, yes, 2
+1, Joe Smith, 1184 Central, Augusta, GA, 30908, no, 1, 2
+3, Harry Masters, 456 Elm, Richmond, VA, 12345, no, 2, 3
+2, Mary Jones, 222 Hazel, Atlanta, GA, 22345, yes, 1
+1, Jenny Smith, 1184 Central, Augusta, GA, 30908, no, 1, 2, 3
+5, Nell Dell, 876 47th, Columbia, SC, 45678, no, 1, 2
+1, Robby Smith, 1184 Central, Augusta, GA, 30908, no, 1, 3
+2, Ed Jones, 222 Hazel, Atlanta, GA, 22345, no, 1, 3
+3, Helen Masters, 456 Elm, Richmond, VA, 12345, yes, 3
+5, Bill Dell, 876 47th, Columbia, SC, 45678, no, 2, 3
+3, Glen Masters, 456 Elm, Richmond, VA, 12345, no, 1, 2, 3
+4, Mark Evans, 234 17th, Knoxville, TN, 54321, no, 1
+5, Fred Dell, 876 47th, Columbia, SC, 45678, no, 1, 3
