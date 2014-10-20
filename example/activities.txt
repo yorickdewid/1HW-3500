@@ -1,0 +1,3 @@
+1, Canoing, "Canoe the Chattooga", Mary Jones
+2, Basketweaving, "Underwater basketweaving for fun and profit", John Jones
+3, Limbo, "Learn to become a pretzel", Helen Masters
